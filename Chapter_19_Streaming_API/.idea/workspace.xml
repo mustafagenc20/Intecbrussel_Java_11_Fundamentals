@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb25381-505c-495d-9e6c-8ee44f1da8f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Design_Pattern/Design_Pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_20_Collections/out/production/Chapter_20_Collections/be/intecbrussel/CollectionsMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_20_Collections/out/production/Chapter_20_Collections/be/intecbrussel/CollectionsMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_20_Collections/src/be/intecbrussel/CollectionsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_20_Collections/src/be/intecbrussel/CollectionsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter_20_Collections/src/be/intecbrussel/exercise01/ListApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter_20_Collections/src/be/intecbrussel/exercise01/ListApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

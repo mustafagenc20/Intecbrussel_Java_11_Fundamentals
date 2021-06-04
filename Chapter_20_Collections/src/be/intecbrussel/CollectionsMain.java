@@ -4,7 +4,8 @@ import java.util.*;
 
 public class CollectionsMain {
     public static void main(String[] args) {
-        setExample();
+//        setExample();
+        treeSetExample();
 
         // 1. List<E>
         // 2. Set<E>
@@ -14,30 +15,41 @@ public class CollectionsMain {
         // Ordered == Volgerde
         // Ordered != Sorted
 
-        List<String> list = new ArrayList<>();
-        list.add("A"); // index 0
-        list.add("B"); // index 1
-        list.add("C");
-        list.add("A");
-        list.add("B");
-        list.remove("D");
-//        list.removeAll(List.of("A", "A", "A"));
-        list.removeIf(s -> s.equals("A")); // To remove all "A"
+        // ========== 1. List<E> ========
+
+//        List<String> list = new ArrayList<>();
+//        list.add("A"); // index 0
+//        list.add("B"); // index 1
+//        list.add("C");
+//        list.add("D");
+//        list.add("D");
+//        list.add("B");
+//        list.add("A");
+//        list.add("A");
+//        list.add("A");
+//        list.add("A");
+//        list.remove("D");
+//        list.removeAll(List.of("D"));
+//        list.removeIf(s -> s.equals("A")); // To remove all "A"
 //        System.out.println(list.get(1)); // list[1]
 
-        for(String s : list){
-            System.out.println(s);
-        }
+//        for(String s : list){
+//            System.out.println(s);
+//        }
+//        list.forEach(System.out::println);
 
-        List<Integer> linked = new ArrayList<>();  // Polymorphism is always better(List = Interface) / instead -> "ArrayList<Integer> linked = new ArrayList<>();"
+        System.out.println("===================================");
+
+//        List<Integer> linked = new ArrayList<>();  // Polymorphism is always better(List = Interface) / instead -> "ArrayList<Integer> linked = new ArrayList<>();"
                                                    // flexibility de methoden kan je hergebruiken. Ex: List<Integer> linked = new LinkedList<>();
 
         // ====== Factory Methods ==========
-        List unmodifiedList = List.of("A", "B", "C", "D"); // IDK / IDC >> I dont know / I dont care
-        unmodifiedList.add("E"); // not possible to add or remove
+//        List unmodifiedList = List.of("A", "B", "C", "D"); // IDK / IDC >> I dont know / I dont care
+////        unmodifiedList.add("D"); // not possible to add or remove
+//        unmodifiedList.forEach(System.out::println);
 
 
-
+        System.out.println("===================================");
 
     }
 

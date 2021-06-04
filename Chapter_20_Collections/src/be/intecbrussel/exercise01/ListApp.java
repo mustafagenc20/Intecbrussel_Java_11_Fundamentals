@@ -8,7 +8,6 @@ public class ListApp {
         secondSolution();
     }
 
-
         public static void firstSolution(){
         List<Integer> numbers = new LinkedList<>();
         Scanner keyboard = new Scanner(System.in);
@@ -18,12 +17,12 @@ public class ListApp {
             try {
                 System.out.print("Enter a number('-1' stops): ");
                 int input = keyboard.nextInt();
+                if(input == -1){
+                    break;
+                }
                 numbers.add(input);
             } catch (InputMismatchException exception) {
                 keepAsking = false;
-//            }
-//            if(input == -1){
-//                break;
             }
         }
 
@@ -67,11 +66,12 @@ public class ListApp {
         int input = 0;
 
         while (input >= 0){
-            System.out.println("Give a number: (negative to stop");
+            System.out.println("Give a number: (negative to stop)");
             input = keyboard.nextInt();
             if (input >= 0) numbers.add(input);
         }
 
-        for (Integer i : numbers) System.out.println(i);
+//        for (Integer i : numbers) System.out.println(i);
+        numbers.forEach(System.out::println);
     }
 }
