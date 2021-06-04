@@ -8,6 +8,7 @@ public class ListApp2 {
         Scanner scanner = new Scanner(System.in);
 
         while(true){
+            System.out.println("Enter a word: ");
             String word = scanner.nextLine();
             sentence.add(word);
             if(word.endsWith(".")){
