@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e633562-4869-4cdd-bfc4-31fabe4305bc" name="Default Changelist" comment="initial commit" />
+    <list default="true" id="7e633562-4869-4cdd-bfc4-31fabe4305bc" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/Chapter_07_Arrays/src/be.intecbrussel/exercise07_03/TwoDimensionalArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,15 +22,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_06_OOP/src/be/intecbrussel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_07_Arrays/src/be.intecbrussel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_07_Arrays\src\be.intecbrussel" />
+      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_07_Arrays\src\be.intecbrussel\codingBat_exercises" />
       <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_06_OOP\src\be\intecbrussel" />
       <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_06_OOP" />
       <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_05\.idea" />
-      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_06_OOP\.idea" />
-      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_05\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_05\src\be.intecbrussel" />
@@ -43,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621769831536</updated>
       <workItem from="1635714715727" duration="1939000" />
-      <workItem from="1635801172201" duration="680000" />
+      <workItem from="1635801172201" duration="1009000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635714801504</created>
@@ -136,7 +138,63 @@
       <option name="project" value="LOCAL" />
       <updated>1635801704852</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="initial commit">
+      <created>1635801874242</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801874242</updated>
+    </task>
+    <task id="LOCAL-00015" summary="initial commit">
+      <created>1635801934312</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801934312</updated>
+    </task>
+    <task id="LOCAL-00016" summary="initial commit">
+      <created>1635801978698</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801978698</updated>
+    </task>
+    <task id="LOCAL-00017" summary="initial commit">
+      <created>1635802005903</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1635802005903</updated>
+    </task>
+    <task id="LOCAL-00018" summary="initial commit">
+      <created>1635802039180</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1635802039180</updated>
+    </task>
+    <task id="LOCAL-00019" summary="initial commit">
+      <created>1635802063100</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635802063100</updated>
+    </task>
+    <task id="LOCAL-00020" summary="initial commit">
+      <created>1635802098172</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1635802098172</updated>
+    </task>
+    <task id="LOCAL-00021" summary="initial commit">
+      <created>1635802118950</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1635802118950</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
