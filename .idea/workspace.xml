@@ -39,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1621769831536</updated>
       <workItem from="1635714715727" duration="1939000" />
+      <workItem from="1635801172201" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635714801504</created>
@@ -82,7 +83,35 @@
       <option name="project" value="LOCAL" />
       <updated>1635716235890</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="initial commit">
+      <created>1635801220621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801220621</updated>
+    </task>
+    <task id="LOCAL-00008" summary="initial commit">
+      <created>1635801278022</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801278022</updated>
+    </task>
+    <task id="LOCAL-00009" summary="initial commit">
+      <created>1635801325469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801325469</updated>
+    </task>
+    <task id="LOCAL-00010" summary="initial commit">
+      <created>1635801404772</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635801404772</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +127,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
