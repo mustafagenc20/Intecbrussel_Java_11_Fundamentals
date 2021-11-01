@@ -21,6 +21,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_05/src" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_05\src" />
+      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_05\src\be.intecbrussel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MG\Desktop\JavaProgramming\Intecbrussel_Java_11_Fundamentals\Chapter_05\src\be.intecbrussel" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621769831536</updated>
-      <workItem from="1635714715727" duration="1234000" />
+      <workItem from="1635714715727" duration="1939000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635714801504</created>
@@ -52,7 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1635716115758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1635716133215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635716133215</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1635716162487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635716162487</updated>
+    </task>
+    <task id="LOCAL-00006" summary="initial commit">
+      <created>1635716235890</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635716235890</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
