@@ -20,7 +20,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_07_Arrays/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter_08_Classes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -45,7 +45,7 @@
       <workItem from="1635714715727" duration="1939000" />
       <workItem from="1635801172201" duration="1123000" />
       <workItem from="1635842371233" duration="1800000" />
-      <workItem from="1636233176776" duration="311000" />
+      <workItem from="1636233176776" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1635714801504</created>
@@ -229,7 +229,84 @@
       <option name="project" value="LOCAL" />
       <updated>1636233438396</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="initial commit">
+      <created>1636233667242</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233667242</updated>
+    </task>
+    <task id="LOCAL-00028" summary="initial commit">
+      <created>1636233680159</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233680159</updated>
+    </task>
+    <task id="LOCAL-00029" summary="initial commit">
+      <created>1636233692843</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233692843</updated>
+    </task>
+    <task id="LOCAL-00030" summary="initial commit">
+      <created>1636233715808</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233715808</updated>
+    </task>
+    <task id="LOCAL-00031" summary="initial commit">
+      <created>1636233727693</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233727693</updated>
+    </task>
+    <task id="LOCAL-00032" summary="initial commit">
+      <created>1636233735935</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233735935</updated>
+    </task>
+    <task id="LOCAL-00033" summary="initial commit">
+      <created>1636233752980</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233752980</updated>
+    </task>
+    <task id="LOCAL-00034" summary="initial commit">
+      <created>1636233761631</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233761631</updated>
+    </task>
+    <task id="LOCAL-00035" summary="initial commit">
+      <created>1636233772421</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233772421</updated>
+    </task>
+    <task id="LOCAL-00036" summary="initial commit">
+      <created>1636233783145</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233783145</updated>
+    </task>
+    <task id="LOCAL-00037" summary="initial commit">
+      <created>1636233793196</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1636233793196</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
