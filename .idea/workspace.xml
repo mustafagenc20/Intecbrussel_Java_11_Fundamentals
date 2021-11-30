@@ -3,27 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="7e633562-4869-4cdd-bfc4-31fabe4305bc" name="Default Changelist" comment="initial commit">
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/Chapter_21_Input-Output.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise05_byte_stream/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise06_object_serialization/Maternity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise06_object_serialization/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/DrawingApp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/DrawingContext.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/IsoScelesTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/Scaleable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/Square.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/TextDrawingContext.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/drawing/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise07_object_serialization/write_read_file/WriteFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise08_transient_variables/CivilService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise08_transient_variables/Maternity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise08_transient_variables/Person.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise09_adjusting_serialization/CivilService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise09_adjusting_serialization/Maternity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise09_adjusting_serialization/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise10_adding_version_numbers/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21_Input-Output/src/be/intecbrussel/exercise11_program_attributes/TestApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,42 +71,7 @@
       <workItem from="1637965243462" duration="1078000" />
       <workItem from="1638045815852" duration="1234000" />
       <workItem from="1638135546672" duration="533000" />
-      <workItem from="1638312095979" duration="946000" />
-    </task>
-    <task id="LOCAL-00186" summary="initial commit">
-      <created>1637966156934</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1637966156934</updated>
-    </task>
-    <task id="LOCAL-00187" summary="initial commit">
-      <created>1637966171823</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1637966171823</updated>
-    </task>
-    <task id="LOCAL-00188" summary="initial commit">
-      <created>1637966178381</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1637966178381</updated>
-    </task>
-    <task id="LOCAL-00189" summary="initial commit">
-      <created>1637966183668</created>
-      <option name="number" value="00189" />
-      <option name="presentableId" value="LOCAL-00189" />
-      <option name="project" value="LOCAL" />
-      <updated>1637966183668</updated>
-    </task>
-    <task id="LOCAL-00190" summary="initial commit">
-      <created>1637966187917</created>
-      <option name="number" value="00190" />
-      <option name="presentableId" value="LOCAL-00190" />
-      <option name="project" value="LOCAL" />
-      <updated>1637966187917</updated>
+      <workItem from="1638312095979" duration="1267000" />
     </task>
     <task id="LOCAL-00191" summary="initial commit">
       <created>1637966194761</created>
@@ -424,7 +381,42 @@
       <option name="project" value="LOCAL" />
       <updated>1638313353220</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="initial commit">
+      <created>1638313658700</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1638313658700</updated>
+    </task>
+    <task id="LOCAL-00236" summary="initial commit">
+      <created>1638313663817</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1638313663817</updated>
+    </task>
+    <task id="LOCAL-00237" summary="initial commit">
+      <created>1638313669210</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1638313669210</updated>
+    </task>
+    <task id="LOCAL-00238" summary="initial commit">
+      <created>1638313674347</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1638313674347</updated>
+    </task>
+    <task id="LOCAL-00239" summary="initial commit">
+      <created>1638313680040</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1638313680040</updated>
+    </task>
+    <option name="localTasksCounter" value="240" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
