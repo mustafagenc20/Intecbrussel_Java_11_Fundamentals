@@ -3,7 +3,7 @@ package be.intecbrussel.exercise03_cooperative_multitasking;
 public class PrintAppLambda {
     public static void main(String[] args) {
         Thread thread1 = new Thread(()->print('*', 100));
-        Thread thread2 = new Thread(()->print('/', 100));
+        Thread thread2 = new Thread(()->print('/', 200));
         thread1.start();
         thread2.start();
     }
