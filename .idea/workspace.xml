@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e633562-4869-4cdd-bfc4-31fabe4305bc" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/Chapter_24_Multi_threading/src/be/intecbrussel/exercise07_08_object_locking/CounterAppLambda.java" afterDir="false" />
-    </list>
+    <list default="true" id="7e633562-4869-4cdd-bfc4-31fabe4305bc" name="Default Changelist" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,27 +58,7 @@
       <workItem from="1638135546672" duration="533000" />
       <workItem from="1638312095979" duration="1331000" />
       <workItem from="1638567656752" duration="236000" />
-    </task>
-    <task id="LOCAL-00212" summary="initial commit">
-      <created>1638050656999</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1638050656999</updated>
-    </task>
-    <task id="LOCAL-00213" summary="initial commit">
-      <created>1638135612593</created>
-      <option name="number" value="00213" />
-      <option name="presentableId" value="LOCAL-00213" />
-      <option name="project" value="LOCAL" />
-      <updated>1638135612593</updated>
-    </task>
-    <task id="LOCAL-00214" summary="initial commit">
-      <created>1638135619078</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1638135619078</updated>
+      <workItem from="1638655121848" duration="723000" />
     </task>
     <task id="LOCAL-00215" summary="initial commit">
       <created>1638135631224</created>
@@ -404,7 +382,28 @@
       <option name="project" value="LOCAL" />
       <updated>1638567888429</updated>
     </task>
-    <option name="localTasksCounter" value="261" />
+    <task id="LOCAL-00261" summary="initial commit">
+      <created>1638655134299</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1638655134299</updated>
+    </task>
+    <task id="LOCAL-00262" summary="initial commit">
+      <created>1638656119133</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1638656119133</updated>
+    </task>
+    <task id="LOCAL-00263" summary="initial commit">
+      <created>1638656124514</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1638656124514</updated>
+    </task>
+    <option name="localTasksCounter" value="264" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
