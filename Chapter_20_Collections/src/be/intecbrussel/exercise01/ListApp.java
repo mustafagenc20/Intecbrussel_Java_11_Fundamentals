@@ -34,12 +34,12 @@ public class ListApp {
         printAverage(numbers);
     }
 
-    /*public static void printList(List<Integer> list){
+    public static void printList(List<Integer> list){
         Iterator iterator = list.listIterator();
         while(iterator.hasNext()){
             System.out.println(iterator.next());
         }
-    }*/
+    }
 
     public static void printList(List<Integer> list){
         list.forEach(number -> System.out.print(number + " "));
